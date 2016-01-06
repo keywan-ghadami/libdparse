@@ -1,5 +1,5 @@
 {
-	"name": "libdparse",
+	"name": "libdparse_keywan",
 	"targetName": "dparse",
 	"targetType": "library",
 	"description": "Library for lexing and parsing D source code",
